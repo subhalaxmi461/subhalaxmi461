@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subhalaxmi Mohapatra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right"  alt ="coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
+<p align ="right" alt="coding" width="300"src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhalaxmi461&label=Profile%20views&color=0e75b6&style=flat" alt="subhalaxmi461" /> </p>
 
@@ -19,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhalaxmi461&show_icons=true&locale=en&layout=compact" alt="subhalaxmi461" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhalaxmi461&show_icons=true&locale=en" alt="subhalaxmi461" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhalaxmi461&" alt="subhalaxmi461" /></p>
